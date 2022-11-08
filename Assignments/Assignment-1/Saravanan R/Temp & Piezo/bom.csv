@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U4",1," Arduino Uno R3"
+"U5",1," Temperature Sensor [TMP36]"
+"PIEZO2",1," Piezo"
